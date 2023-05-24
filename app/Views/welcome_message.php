@@ -6,6 +6,7 @@
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/app.css">
 
     <!-- STYLES -->
 
@@ -318,7 +319,7 @@
         }
     }
 </script>
-
+<script type='text/javascript' src="<?php echo base_url(); ?>/assets/js/app.js"></script>
 <!-- -->
 
 </body>
